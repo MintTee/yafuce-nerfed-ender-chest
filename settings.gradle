@@ -10,3 +10,5 @@ rootProject.name = "yafuce-nerfed-ender-chest"
 
 include("common")
 include("mc-1.21")
+include("mc-1.21.2")
+include("mc-1.21.11")

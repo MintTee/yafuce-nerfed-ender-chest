@@ -14,6 +14,6 @@ public class Main implements ModInitializer {
     public void onInitialize() {
         ConfigIO.load();
         if (ConfigIO.CURRENT.costEchestOpening) EnderChestAccessManager.register();
-        LOGGER.info("yafuce's Nerfed Ender Chest for MC 1.21 / 1.21.1 initializing");
+        LOGGER.info("yafuce's Nerfed Ender Chest for MC 1.21.2 to 1.21.4 initializing");
     }
 }
