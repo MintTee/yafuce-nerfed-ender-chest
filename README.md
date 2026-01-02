@@ -27,7 +27,7 @@ Edit ```config/yafuce_nerfed_ender_chest.json``` to configure the mod.
   "costEchestOpening": true,
   "openerItem": "minecraft:ender_eye",
   "openerItemCount": 1,
-  "timeTickFreeAccess": 6000,
+  "timeTickFreeAccess": 12000,
   "blockedEchestItems": [
     "minecraft:shulker_box",
     "minecraft:white_shulker_box",
