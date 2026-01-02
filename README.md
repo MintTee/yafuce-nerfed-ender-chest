@@ -9,7 +9,7 @@ This mod aims to rebalance Ender Chests to be better suited to only hold the ess
 
 ## Features
 - Prevents the use of skulkers boxes inside Ender Chests.
-- Opening a chest require an eye of ender. The Ender Chest stays opened for 10 minutes.
+- Opening a chest requires an eye of ender. The Ender Chest stays opened for 10 minutes.
 - Fully customizable, data driven config. Option to prevent Ender Chest use altogether (off by default)
 
 ---
