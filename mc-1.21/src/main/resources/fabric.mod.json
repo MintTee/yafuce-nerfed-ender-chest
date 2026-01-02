@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "yafuce_nerfed_ender_chest",
+  "version": "1.0.0",
+  "name": "Yafuce's Nerfed Ender Chest",
+  "description": "A simple server side mod to rebalance Ender Chests, forcing players to come up with more creative item transportation solutions.",
+  "authors": ["yafuce"],
+  "contact": {
+    "discord": "yafuce.",
+    "mail": "martin.bost@proton.me",
+    "website":"https://modrinth.com/mod/yafuces-nerfed-totems"
+  },
+  "license": "GNU General Public License version 3",
+  "icon": "assets/yafuce_nerfed_ender_chest/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["yafuce_nerfed_ender_chest.Main"]
+  },
+  "mixins": [
+    "yafuce_nerfed_ender_chest.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.21 <1.22",
+    "fabricloader": ">=0.18.4",
+    "java": ">=21"
+  }
+}

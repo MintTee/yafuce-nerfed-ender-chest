@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "yafuce_nerfed_ender_chest.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "SlotMixin",
+    "EnderChestBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
